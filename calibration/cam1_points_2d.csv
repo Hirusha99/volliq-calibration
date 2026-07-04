@@ -1,0 +1,11 @@
+point_name,u,v
+corner_left_near,649,868
+corner_right_near,1531,703
+corner_left_far,232,588
+corner_right_far,750,540
+center_left,361,678
+center_right,1017,594
+attack_left_near,427,726
+attack_right_near,1149,625
+attack_left_far,310,642
+attack_right_far,916,574

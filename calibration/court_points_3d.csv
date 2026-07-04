@@ -1,0 +1,11 @@
+point_name,X,Y,Z
+corner_left_near,0,0,0
+corner_right_near,0,9,0
+corner_left_far,18,0,0
+corner_right_far,18,9,0
+center_left,9,0,0
+center_right,9,9,0
+attack_left_near,3,0,0
+attack_right_near,3,9,0
+attack_left_far,15,0,0
+attack_right_far,15,9,0
